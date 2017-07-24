@@ -1,0 +1,13 @@
+
+body {
+    font-style: italic, bold;
+}
+
+
+.article-section {
+    font-weight: bold;
+}
+
+.button {
+    display: inline-block;
+}
